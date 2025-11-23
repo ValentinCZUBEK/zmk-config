@@ -1,0 +1,6 @@
+if SHIELD_CREEPYBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "creepyboard"
+
+endif
